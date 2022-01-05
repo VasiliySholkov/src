@@ -1,2 +1,0 @@
-public class Ekzamen5 {
-}
